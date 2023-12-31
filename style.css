@@ -1,3 +1,7 @@
+@font-face{
+  font-family: Montserrat;
+  src: url(./Montserrat-VariableFont_wght.woff2);
+}
 * {
   /* star * means universal selector ye puri properity me jo bhi aap yaha dete ho properity wo apply karta hai */
     margin: 0;
